@@ -1,0 +1,19 @@
+{
+  "name": "prp-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdcjunior/prp-shared.git"
+  },
+  "author": "https://github.com/acdcjunior",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/acdcjunior/prp-shared/issues"
+  },
+  "homepage": "https://github.com/acdcjunior/prp-shared#readme"
+}
