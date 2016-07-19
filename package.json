@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/acdcjunior/prp-shared/issues"
   },
-  "homepage": "https://github.com/acdcjunior/prp-shared#readme"
+  "homepage": "https://github.com/acdcjunior/prp-shared#readme",
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
 }
