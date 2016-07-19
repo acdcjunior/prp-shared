@@ -4,7 +4,7 @@ Para gerar:
 
 Para adicionar ao projeto:
 
-    npm install --save-dev https://github.com/acdcjunior/prp-shared#master
+    rm -rf node_modules/prp-shared && npm install --save-dev https://github.com/acdcjunior/prp-shared#master
 
 Para importar nos arquivos TS:
 
